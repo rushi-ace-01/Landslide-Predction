@@ -1,2 +1,2 @@
-# Research
+# Landslide Prediction Model
 
