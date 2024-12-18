@@ -1,7 +1,8 @@
 # Landslide Prediction Model
 This project focuses on building a robust Landslide Prediction Model using a Convolutional Neural Network (CNN), incorporating data augmentation techniques to enhance model performance and improve predictions.
 
-Key Features:
+Key Features: 
+
 Data Preparation:
 
 Utilized a large dataset of historical landslide data in CSV format.
