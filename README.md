@@ -3,8 +3,6 @@ This project focuses on building a robust Landslide Prediction Model using a Con
 
 Key Features: 
 
-Data Preparation:
-
 Utilized a large dataset of historical landslide data in CSV format.
 Preprocessed data to ensure compatibility with the CNN model, including normalization and handling missing values.
 Model Development:
