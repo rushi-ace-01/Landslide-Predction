@@ -25,3 +25,7 @@ Future Work:
 Integration of live data streams for real-time predictions.
 Deployment as a web application using frameworks like Streamlit for user-friendly accessibility.
 
+## Approach
+![_- visual selection (1)](https://github.com/user-attachments/assets/452d66b8-7a6b-4b65-b17e-4bd3b512d863)
+
+
